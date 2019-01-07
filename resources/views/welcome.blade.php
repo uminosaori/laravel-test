@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome, Blade!
+                    Hello from Blade!
                 </div>
 
             
